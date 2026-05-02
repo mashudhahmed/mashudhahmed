@@ -1,18 +1,38 @@
- # About
-
-Computer Science undergraduate student at [AIUB](https://www.aiub.edu/) with a strong focus on becoming a Software Engineer. With a deep passion for technology and an insatiable curiosity, I strive to contribute to the ever-evolving world of Software Development.
-
 <div align="center">
 
-<div align="center">
+<h2>About</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast&cursor=true" alt="Typing SVG" /></a>
 <br/>
+<p align="center">
+CS undergrad at  <a href="https://www.aiub.edu/">AIUB</a>, shipping full-stack apps — e-commerce platforms, food delivery systems, and Android apps. Always building something new.
+</p>
+
+<h2>Git Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&theme=radical&langs_count=8" height="180" />
 </p>
+
+<h2>Tech Stack</h2>
+
+<p align="center">
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+</p>
+
+</div>
 
 <!-- ### Stay Connected
 <a href="mailto:ahmed.mashudh@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45"/></a>
