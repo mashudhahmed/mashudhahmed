@@ -20,12 +20,14 @@ CS undergrad at AIUB with a focus on backend-heavy full-stack engineering. I've 
 <p align="center">
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" /></a>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
