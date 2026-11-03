@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <h2>About</h2>
 
@@ -38,7 +38,7 @@
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
-</div>
+</div> -->
 
 <!-- ### Stay Connected
 <a href="mailto:ahmed.mashudh@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45"/></a>
@@ -47,3 +47,40 @@
 <a href="https://codeforces.com/profile/mashudh_ahmed" target="_blank" title="CodeForces"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="45"/></a>
 <a href="https://www.codechef.com/users/mashudh_ahmed" target="_blank" title="CodeChef"><img src="https://img.icons8.com/plasticine/100/000000/codechef.png" width="48"/></a>
 <a href="https://www.hackerrank.com/mashudh_ahmed" target="_blank" title="HackerRank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="45"/></a> -->
+
+
+<div align="left">
+
+<h1>Mashudh Ahmed</h1>
+<strong>Full-Stack Engineer</strong>
+
+<br/>
+
+<p>
+I build scalable, backend-heavy full-stack applications and enterprise platforms. Currently engineering high-performance systems with <b>Python, Django REST Framework, PostgreSQL, and React</b>, with a focus on containerized deployments and decoupled architectures.
+</p>
+
+<h3>/ Current Focus</h3>
+<p>Developing institutional FinTech solutions at DataSoft Systems and architecting the Rentneea marketplace ecosystem.</p>
+
+<h3>/ Technical Arsenal</h3>
+<p>
+<b>Backend & DevOps:</b> Django, NestJS, PostgreSQL, Redis, Docker, Celery, Linux<br/>
+<b>Frontend:</b> Next.js, React, TypeScript, TailwindCSS<br/>
+<b>Languages:</b> Python, JavaScript, TypeScript, Kotlin, C++
+</p>
+
+<h3>/ Metrics</h3>
+<p align="left">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=000000" height="150" alt="Git Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=000000" height="150" alt="Top Languages" />
+</p>
+
+<h3>/ Connectivity</h3>
+<p>
+  <a href="https://mashudhahmed.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mashudhahmed">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ahmed.mashudh@gmail.com">Email</a>
+</p>
+
+</div>
