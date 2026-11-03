@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<h2>About</h2>
+<!-- <h2>About</h2>
 
 <a href="https://git.io/typing-svg">
   <picture>
@@ -61,29 +61,15 @@
 </a>
 <br/>
 <p align="center">
-  <b>CS undergrad at AIUB focused on backend-heavy full-stack engineering.</b> I've built e-commerce platforms, food delivery systems, and Android applications, and I'm currently working with <b>Python, Django, Django REST Framework, PostgreSQL, React, Docker, and Redis</b>.
-  <br/><br/>
-  <b>Currently:</b> Learning how real-world Django applications are designed, structured, tested, secured, containerized, and deployed.
-</p>
+  <b>CS undergrad at AIUB focused on backend-heavy full-stack engineering.</b> I've built e-commerce platforms, food delivery systems, and Android applications, and I'm currently working with <b>Python, Django, Django REST Framework, PostgreSQL, React, Docker, and Redis</b>
 
 <h2>Git Stats</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=4b5563&bg_color=ffffff">
-    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=4b5563&bg_color=ffffff" alt="Git Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=000000&text_color=4b5563&bg_color=ffffff">
-    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=000000&text_color=4b5563&bg_color=ffffff" alt="Top Languages" />
-  </picture>
-</p>
+
 
 <h2>Tech Stack</h2>
 
-<p align="center">
+ <p align="center">
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
@@ -100,4 +86,28 @@
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
-</div>
+<p align="center">
+  <b>Backend Architecture</b><br/>
+  Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; C++
+  <br/><br/>
+  <b>Frontend Engineering</b><br/>
+  TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TailwindCSS
+  <br/><br/>
+  <b>Database & DevOps</b><br/>
+  PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Git
+</p>
+</div>  -->
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=4b5563&bg_color=ffffff">
+    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=4b5563&bg_color=ffffff" alt="Git Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=000000&text_color=4b5563&bg_color=ffffff">
+    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=000000&text_color=4b5563&bg_color=ffffff" alt="Top Languages" />
+  </picture>
+</p>
