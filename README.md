@@ -38,7 +38,7 @@
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
-</div> -->
+</div> 
 
 <!-- ### Stay Connected
 <a href="mailto:ahmed.mashudh@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45"/></a>
@@ -48,39 +48,56 @@
 <a href="https://www.codechef.com/users/mashudh_ahmed" target="_blank" title="CodeChef"><img src="https://img.icons8.com/plasticine/100/000000/codechef.png" width="48"/></a>
 <a href="https://www.hackerrank.com/mashudh_ahmed" target="_blank" title="HackerRank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="45"/></a> -->
 
+<div align="center">
 
-<div align="left">
+<h2>About</h2>
 
-<h1>Mashudh Ahmed</h1>
-<strong>Full-Stack Engineer</strong>
-
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Problem+Solver;Tech+Enthusiast&cursor=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Problem+Solver;Tech+Enthusiast&cursor=true">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Problem+Solver;Tech+Enthusiast&cursor=true">
+  </picture>
+</a>
 <br/>
-
-<p>
-I build scalable, backend-heavy full-stack applications and enterprise platforms. Currently engineering high-performance systems with <b>Python, Django REST Framework, PostgreSQL, and React</b>, with a focus on containerized deployments and decoupled architectures.
+<p align="center">
+  <b>CS undergrad at AIUB focused on backend-heavy full-stack engineering.</b> I've built e-commerce platforms, food delivery systems, and Android applications, and I'm currently working with <b>Python, Django, Django REST Framework, PostgreSQL, React, Docker, and Redis</b>.
+  <br/><br/>
+  <b>Currently:</b> Learning how real-world Django applications are designed, structured, tested, secured, containerized, and deployed.
 </p>
 
-<h3>/ Current Focus</h3>
-<p>Developing institutional FinTech solutions at DataSoft Systems and architecting the Rentneea marketplace ecosystem.</p>
+<h2>Git Stats</h2>
 
-<h3>/ Technical Arsenal</h3>
-<p>
-<b>Backend & DevOps:</b> Django, NestJS, PostgreSQL, Redis, Docker, Celery, Linux<br/>
-<b>Frontend:</b> Next.js, React, TypeScript, TailwindCSS<br/>
-<b>Languages:</b> Python, JavaScript, TypeScript, Kotlin, C++
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=4b5563&bg_color=ffffff">
+    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=4b5563&bg_color=ffffff" alt="Git Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=000000&text_color=4b5563&bg_color=ffffff">
+    <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&langs_count=8&hide_border=true&title_color=000000&text_color=4b5563&bg_color=ffffff" alt="Top Languages" />
+  </picture>
 </p>
 
-<h3>/ Metrics</h3>
-<p align="left">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mashudhahmed&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=000000" height="150" alt="Git Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashudhahmed&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=000000" height="150" alt="Top Languages" />
-</p>
+<h2>Tech Stack</h2>
 
-<h3>/ Connectivity</h3>
-<p>
-  <a href="https://mashudhahmed.com">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mashudhahmed">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ahmed.mashudh@gmail.com">Email</a>
+<p align="center">
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
 </div>
